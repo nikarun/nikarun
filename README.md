@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikarun
-- 👀 I’m interested in Full Stack Devlopment
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Full stack devlopment Projects
+- 👀 I’m interested in Backend development
+- 💞️ I’m looking to collaborate on Backend devlopment Projects
 - 📫 How to reach me :parihararun3@gmail.com
 
 <!---
